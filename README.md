@@ -5,7 +5,7 @@ _This script uses the pygame library in order to make the interface._
 Explanation of some pieces of the code:
 
 **game_board** (var):
-This variable keeps the track of the input provided by the user in the form of keys binded to the graphical board in the GUI.
+This variable keeps the track of the input provided by the user in the form of keys bound to the graphical board in the GUI.
 
 **board_coordinates** (const):
 This is a list of tuple where each tuple represents the (x, y) of the centre of each box in the graphical board. This makes sure that each avatar is being placed at a pre-decided place.
